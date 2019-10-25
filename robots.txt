@@ -1,0 +1,4 @@
+Sitemap: https://danieldmulkey.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: danieldmulkey.github.io
