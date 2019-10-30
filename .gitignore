@@ -26,7 +26,7 @@ _site/
 
 # Ruby
 Gemfile.lock
-.jekyll-cache
+.jekyll-cache/
 .jekyll-metadata
 .sass-cache
 vendor
