@@ -1,0 +1,20 @@
+I"'<p>Anyone who took an introductory physics or optics class learned about Snell’s law:
+\begin{equation<em>}
+n_1\sin{\theta_1} = n_2\sin{\theta_2}
+\end{equation</em>}
+Apparently, it’s actually Snel’s law, but history aside, this is often reduced to
+“angle of incidence equals angle of reflection.” I recently saw a Physics StackExchange
+question where someone was asking where this comes from. There were plenty of
+quantum or E&amp;M answers, but no one giving the simple version, nor the
+(No: Intro snel’s as first simple thing. Plot twist on spelling.)</p>
+
+<p>(Instead: Someone on the physics stack exchange was asking where angle in == angle out comes from…)</p>
+
+<p>(People always jump to angle in = angle out. Can’t forget index.)</p>
+
+<p>(hand wave, if you have a layout like <em>this</em>, then index changes, so angle does)</p>
+
+<p>(Step further, eigenpolarization reflections from inside biaxial crystal)</p>
+
+<p>(So here’s a friendly reminder to always watch your angles and polarizations when dealing with birefringent materials).</p>
+:ET
