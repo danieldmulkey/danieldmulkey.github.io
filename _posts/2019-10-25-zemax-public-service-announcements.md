@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zemax Public Service Announcements"
+title:  "Zemax \"Public Service Announcements\""
 ---
 
 * Zemax Programming Language (ZPL) macros ignore case. D is the same as d.
