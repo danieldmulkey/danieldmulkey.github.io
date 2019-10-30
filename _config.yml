@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://photonsarefriends.com"
 title_description: "(Not food)<p></p>Notes on optics, electronics, mechanics, software, modeling, instrument control, and everything else that comes up in science and engineering."
 # title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
-title_image: ./headshot.jpg
+title_image: headshot.jpg
 # google_analytics: "UA-20365477-4"
 # disqus_account: cartenoire
 github_repository: https://github.com/danieldmulkey/danieldmulkey.github.io
